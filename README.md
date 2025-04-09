@@ -1,1 +1,2 @@
 # customOSIA
+print("Hello World")
